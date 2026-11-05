@@ -1,0 +1,312 @@
+[
+  {
+    "id": "sns-buneunwoo",
+    "name": "붕은우",
+    "kind": "bungeo",
+    "address": "경기 광명시 시청로 109, CU 광명시청로점 앞 노점",
+    "lat": 37.4794,
+    "lng": 126.8647,
+    "region": "경기",
+    "hours": "오후 4~10시 · 화요일 휴무(내년 2월까지)",
+    "menu": "팥·슈크림·고구마 3개 2,000원 / 피자치즈·고구마치즈 1개 1,500원",
+    "note": "웨이팅 1~2시간 · 인스타 @herwbb_",
+    "instagram": "@herwbb_",
+    "sources": [
+      "https://fanplus.co.kr/community/misc/136985873",
+      "https://www.newsis.com/view/NISX20261019_0003831854"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-bungeomong",
+    "name": "붕어몽",
+    "kind": "bungeo",
+    "address": "서울 관악구 신림동 (노점→브랜드 팝업으로 이동·위치 변동)",
+    "lat": 37.4842,
+    "lng": 126.9296,
+    "region": "서울",
+    "hours": "팝업·노점 일정에 따라 다름",
+    "menu": "팥·슈크림·고구마로투스·페페로니피자·치즈떡갈비 등",
+    "note": "신림동 SNS 화제 후 브랜드화. 고정 노점 위치는 변동될 수 있어요.",
+    "sources": [
+      "https://www.news1.kr/society/general-society/5651100"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-idae-bin",
+    "name": "이대 앞 빈 상가 붕어빵",
+    "kind": "bungeo",
+    "address": "서울 서대문구 이화여대 앞 빈 상가 일대",
+    "lat": 37.55828,
+    "lng": 126.94563,
+    "region": "서울",
+    "hours": "계절·점포에 따라 다름",
+    "menu": "붕어빵",
+    "note": "빈 상가에 들어선 SNS 화제 겨울 간식 스폿",
+    "sources": [
+      "https://www.hankyung.com/article/202611020623i"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-hyogong",
+    "name": "효공잉어빵",
+    "kind": "bungeo",
+    "address": "서울 용산구 효창원로 일대 · 효창공원역 2번 출구 근처 트럭",
+    "lat": 37.53679,
+    "lng": 126.95712,
+    "region": "서울",
+    "hours": "겨울철 성수기 · 재료 소진 시 조기마감",
+    "menu": "팥·슈크림 2개 1,000원 · 김치(매코미) 3개 2,000원",
+    "note": "서울 3대 붕어빵으로 불리며 한 시간 이상 웨이팅 가능",
+    "sources": [
+      "https://www.harpersbazaar.co.kr/article/1890375"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-chonggak",
+    "name": "총각네붕어빵",
+    "kind": "bungeo",
+    "address": "서울 종로구 창경궁로 88 광장시장 남1문 입구",
+    "lat": 37.57,
+    "lng": 126.9997,
+    "region": "서울",
+    "hours": "12:00–17:00 · 1인 4개 제한",
+    "menu": "팥+호두 1,500원 · 슈크림 1,500원 · 피자 2,000원 · 고구마+크림치즈 2,000원",
+    "note": "광장시장 SNS 핫플 · 재료 고급화로 유명",
+    "sources": [
+      "https://view.mk.co.kr/trip-food/article/153848/"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-bbungeodang",
+    "name": "뿡어당",
+    "kind": "bungeo",
+    "address": "서울 성북구 보문로34길 94 102호",
+    "lat": 37.5893,
+    "lng": 127.0195,
+    "region": "서울",
+    "hours": "월–금 13:00–22:00 · 토 14:00–21:00 · 일 휴무",
+    "menu": "통팥 1,500원 · 콘치즈·피자 등 이색 메뉴",
+    "note": "성신여대 인근 수제 붕어빵 · 인스타 @bboong_eo_dang",
+    "instagram": "@bboong_eo_dang",
+    "sources": [
+      "https://www.harpersbazaar.co.kr/article/1890375"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-chulboozi",
+    "name": "철부지붕어빠",
+    "kind": "bungeo",
+    "address": "서울 마포구 와우산로32길 25 1층",
+    "lat": 37.5555,
+    "lng": 126.9235,
+    "region": "서울",
+    "hours": "화–일 15:00–22:00 · 월 휴무",
+    "menu": "콘버터·통모짜치즈 붕어빵 2,000원대 · 에스프레소 페어링",
+    "note": "홍대 SNS 핫플 · 인스타 @chulboozi_espresso",
+    "instagram": "@chulboozi_espresso",
+    "sources": [
+      "https://view.mk.co.kr/trip-food/article/153848/"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-namdaemun-hotteok",
+    "name": "남대문시장 야채호떡",
+    "kind": "hotteok",
+    "address": "서울 중구 남대문시장 초입 호떡 노점",
+    "lat": 37.5595,
+    "lng": 126.977,
+    "region": "서울",
+    "hours": "장사 시간에 따라 다름",
+    "menu": "야채·꿀씨앗·단팥 각 2,500원대",
+    "note": "SNS 좌표 맛집 · 외국인 관광객 웨이팅으로 유명",
+    "sources": [
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008130005"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-hotteokjjang",
+    "name": "호떡짱(광장시장 10호 뿌링클호떡)",
+    "kind": "hotteok",
+    "address": "서울 종로구 광장시장 북2문 인근 (노점 10호)",
+    "lat": 37.5704,
+    "lng": 126.9999,
+    "region": "서울",
+    "hours": "시장 영업시간에 따름",
+    "menu": "뿌링클·인절미·누텔라 등 시즈닝 호떡",
+    "note": "광장시장 SNS 화제 호떡 노점",
+    "sources": [
+      "https://bwolf08.tistory.com/2591"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-namyeong",
+    "name": "남영역 찹쌀 잉어빵",
+    "kind": "bungeo",
+    "address": "서울 용산구 청파로 252 일대",
+    "lat": 37.53203,
+    "lng": 126.95582,
+    "region": "서울",
+    "hours": "겨울철 · 웨이팅 많음",
+    "menu": "찹쌀 잉어빵",
+    "note": "남영역 앞 긴 줄로 보도된 SNS 스폿",
+    "sources": [
+      "https://www.yna.co.kr/view/AKR20251030024900505"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-haengbok",
+    "name": "행복한 잉어빵",
+    "kind": "bungeo",
+    "address": "회기역 2번 출구 일대",
+    "lat": 37.5895,
+    "lng": 127.05762,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "잉어빵",
+    "note": "대학가 SNS·매거진에 자주 소개되는 스폿",
+    "sources": [
+      "https://www.univ20.com/Magazine/Detail/3724"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-hwanggong",
+    "name": "황궁 잉어빵",
+    "kind": "bungeo",
+    "address": "왕십리역 6번 출구 일대",
+    "lat": 37.56138,
+    "lng": 127.03841,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "잉어빵",
+    "note": "왕십리 SNS 추천 노점",
+    "sources": [
+      "https://www.univ20.com/Magazine/Detail/3724"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-mindle",
+    "name": "민들레식당 앞 붕어빵",
+    "kind": "bungeo",
+    "address": "서울 중구 충무로4가 32-11 일대",
+    "lat": 37.56208,
+    "lng": 126.99556,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "붕어빵",
+    "note": "충무로 인근 화제 스폿",
+    "sources": [
+      "https://www.univ20.com/Magazine/Detail/3724"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-soomun-hyehwa",
+    "name": "소문난 혜화 붕어빵",
+    "kind": "bungeo",
+    "address": "혜화역 4번 출구 일대",
+    "lat": 37.58157,
+    "lng": 127.00181,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "붕어빵",
+    "note": "대학로 SNS 추천",
+    "sources": [
+      "https://www.univ20.com/Magazine/Detail/3724"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-golden",
+    "name": "골든 잉어빵",
+    "kind": "bungeo",
+    "address": "이대역 5번 출구 일대",
+    "lat": 37.55667,
+    "lng": 126.9446,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "잉어빵",
+    "note": "이대 앞 SNS 추천 노점",
+    "sources": [
+      "https://www.univ20.com/Magazine/Detail/3724"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-redgoguma",
+    "name": "레드고구마붕어빵",
+    "kind": "bungeo",
+    "address": "숙명여대 정문 일대",
+    "lat": 37.54429,
+    "lng": 126.96523,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "고구마 붕어빵",
+    "note": "숙대 정문 SNS 스폿",
+    "sources": [
+      "https://www.univ20.com/Magazine/Detail/3724"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-dongdaemun",
+    "name": "동대문역 6번출구 가판대",
+    "kind": "bungeo",
+    "address": "서울 종로구 창신동 487-4 일대",
+    "lat": 37.57186,
+    "lng": 127.01149,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "붕어빵",
+    "note": "동대문 가판 SNS 좌표",
+    "sources": [
+      "https://somethingmap.com/map/36495028176"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  },
+  {
+    "id": "sns-cheongnyangni",
+    "name": "청량리 원조 붕어빵·풀빵",
+    "kind": "bungeo",
+    "address": "서울 동대문구 전농로 136 앞 전농사거리 노점",
+    "lat": 37.5805,
+    "lng": 127.045,
+    "region": "서울",
+    "hours": "겨울 성수기",
+    "menu": "붕어빵·국화빵·새우빵 2개 1,000원대",
+    "note": "가성비로 SNS에서 회자되는 청량리 노점",
+    "sources": [
+      "https://www.harpersbazaar.co.kr/article/1890375"
+    ],
+    "confidence": "대략",
+    "sns_hot": true
+  }
+]
